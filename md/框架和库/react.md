@@ -194,9 +194,9 @@ ReactDOM.render(
 
 常用的事件
 ```javascript
-剪贴板事件 onKeyDown onKeyPress onKeyUp
-键盘事件 onFocus onBlur
-焦点事件 onChange onInput onSubmit
+键盘事件 onKeyDown onKeyPress onKeyUp
+表单事件 onFocus onBlur onChange onInput onSubmit
+剪贴板事件 onCopy onCut onPaste
 鼠标事件 onClick onDoubleClick onMouseDown onMouseEnter onMouseLeave
 ```
 
